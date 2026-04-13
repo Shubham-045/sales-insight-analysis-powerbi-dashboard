@@ -7,6 +7,10 @@ The project leverages a relational sales database as the data source and present
 The objective is to convert raw sales data into meaningful insights that support data-driven business decisions.
 
 ---
+## Dashboard
+![Sales Profit Analysis](https://github.com/user-attachments/assets/e3bab079-aaad-4032-b96e-44b9ad553b6d)
+
+---
 
 ## 🛠 Tools & Technologies Used
 - **Power BI Desktop** – Data visualization and dashboard creation  
@@ -68,11 +72,6 @@ The dashboard provides the following insights:
 These insights help businesses make informed decisions and optimize sales strategies.
 ---
 
-## Dashboard
-![Sales Profit Analysis](https://github.com/user-attachments/assets/e3bab079-aaad-4032-b96e-44b9ad553b6d)
-
-
----
 ## 👩‍💻 Author
 Shubham Ghodake  
 Data Analyst | Power BI Enthusiast
