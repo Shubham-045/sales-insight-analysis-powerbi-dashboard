@@ -66,5 +66,13 @@ The dashboard provides the following insights:
 - Tracked monthly and yearly revenue variations  
 
 These insights help businesses make informed decisions and optimize sales strategies.
+---
+
+## Dashboard
+![Sales Profit Analysis](https://github.com/user-attachments/assets/e3bab079-aaad-4032-b96e-44b9ad553b6d)
+
 
 ---
+## 👩‍💻 Author
+Shubham Ghodake  
+Data Analyst | Power BI Enthusiast
